@@ -1,2 +1,3 @@
-# fluentd-plugin
-memorandum of understanding for fluentd-plugin
+# fluentd-plugin-nkf
+a tiny fluentd filter plugin to convert multi-byte Kanji with ruby nkf
+this is memorandum of understanding for fluentd.
